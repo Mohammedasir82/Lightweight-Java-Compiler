@@ -1,0 +1,5 @@
+a = 2;
+repeat 3 {
+   print a;
+   a = a + 1;
+}
